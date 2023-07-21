@@ -4,7 +4,4 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-
-[dependencies.pancurses]
-version = "0.17.0"
-features = ["win32a"]
+ncurses = "5.101.0"
